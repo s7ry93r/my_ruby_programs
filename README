@@ -1,0 +1,5 @@
+the preferred rvm setup for this project is ..
+1.9.3-head (p448) ... at the time of creating this project ...
+locally you should create a .rvmrc file with this command
+rvm --rvmrc --create 1.9.3-head@pftwwr
+this will point this project at the correct ruby and gemset
